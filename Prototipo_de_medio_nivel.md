@@ -1,6 +1,7 @@
-# Prototipo de bajo nivel
+# Prototipo de medio nivel
 ## Video
-Link al prototipo de bajo nivel: https://app.moqups.com/Q2pGmRS60ugpEF25XlMFZdHLSkdlXF9u/view/page/a7bc758b4
+Link al prototipo de medio nivel: 
+https://app.moqups.com/Q2pGmRS60ugpEF25XlMFZdHLSkdlXF9u/view/page/a7bc758b4
 
 ## Pruebas
 Link a Lyssna donde estan las pruebas:
